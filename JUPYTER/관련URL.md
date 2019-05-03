@@ -20,3 +20,6 @@ _returnType=json
 
 ## timetime
 http://timetime.kr
+
+http://pythonscraping.com/pages/page1.html
+http://pythonscraping.com/pages/page3.html
