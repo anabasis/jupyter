@@ -19,7 +19,13 @@ _returnType=json
 <http://pythonscraping.com/pages/cookies/login.html>
 
 ## timetime
-http://timetime.kr
 
-http://pythonscraping.com/pages/page1.html
-http://pythonscraping.com/pages/page3.html
+<http://timetime.kr>
+
+<http://pythonscraping.com/pages/page1.html>
+<http://pythonscraping.com/pages/page3.html>
+
+<http://example.webscraping.com/places/default/index>
+
+## Google
+PageRank 알고리즘
