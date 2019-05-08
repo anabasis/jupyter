@@ -29,3 +29,5 @@ _returnType=json
 
 ## Google
 PageRank 알고리즘
+
+<http://www.ppomppu.co.kr/zboard/zboard.php?id=ppomppu>
