@@ -42,7 +42,7 @@ try :
 
     # URLOPEN
     resp = request.urlopen("http://www.google.com")
-    
+
     # URLREQUEST
     #url = "https://www.google.com/search?q=%EB%B0%95%EB%B3%B4%EC%98%81&rlz=1C1CHBD_koKR847KR847&oq=%EB%B0%95%EB%B3%B4%EC%98%81&aqs=chrome..69i57j0l5.3532j0j8&sourceid=chrome&ie=UTF-8"
     #req = request.Request(url,headers={"User-Agent":"Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"},method="GET")
