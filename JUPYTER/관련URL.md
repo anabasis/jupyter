@@ -28,8 +28,25 @@ _returnType=json
 <http://example.webscraping.com/places/default/index>
 
 ## Google
-PageRank 알고리즘
+
+- PageRank 알고리즘
 
 <http://www.ppomppu.co.kr/zboard/zboard.php?id=ppomppu>
 
 <http://example.webscraping.com/places/default/search>
+
+- 한글사전
+
+<https://sourceforge.net/projects/mysqlenglishdictionary/>
+
+특허
+[미국]<https://bulkdata.uspto.gov>
+[한국]<https://tod.kisti.re.kr/index.do>
+
+[알고리즘]
+
+- TF-IDE
+- 유사도 코싸인
+
+[램섬웨어]
+WannaCry 랜섬웨어 : 
