@@ -49,4 +49,22 @@ _returnType=json
 - 유사도 코싸인
 
 [램섬웨어]
-WannaCry 랜섬웨어 : 
+WannaCry 랜섬웨어 : <https://namu.wiki/w/%EC%9B%8C%EB%84%88%ED%81%AC%EB%9D%BC%EC%9D%B4>
+
+## Bag of Words
+
+<http://blog.naver.com/PostView.nhn?blogId=pdc222&logNo=220714583295&parentCategoryNo=&categoryNo=47&viewDate=&isShowPopularPosts=true&from=search>
+==> Sparse Representation => Vector
+
+## One-Hot Encoding
+
+<https://m.blog.naver.com/PostView.nhn?blogId=wideeyed&logNo=221343373342&proxyReferer=https%3A%2F%2Fwww.google.com%2F>
+==> Sparse Representation => Vector
+
+## Zipf's Law
+
+<https://ko.wikipedia.org/wiki/%EC%A7%80%ED%94%84%EC%9D%98_%EB%B2%95%EC%B9%99>
+
+## Heap's Law
+
+<https://freshrimpsushi.tistory.com/559>
