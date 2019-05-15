@@ -1,5 +1,8 @@
 # 관련URL
 
+[텍스트마이닝]
+<https://wikidocs.net/book/2155>
+
 <https://www.data.go.kr>
 
 [XML]
@@ -68,3 +71,38 @@ WannaCry 랜섬웨어 : <https://namu.wiki/w/%EC%9B%8C%EB%84%88%ED%81%AC%EB%9D%B
 ## Heap's Law
 
 <https://freshrimpsushi.tistory.com/559>
+
+## n-gram
+
+<https://kkyunstory.tistory.com/50>
+
+### Bayes
+
+<https://ratsgo.github.io/statistics/2017/06/30/bayesinfer/>
+
+### Likelihood
+
+<https://ratsgo.github.io/statistics/2017/09/23/MLE/>
+
+### Markov Assumption
+
+<https://ko.wikipedia.org/wiki/%EB%A7%88%EB%A5%B4%EC%BD%94%ED%94%84_%EC%97%B0%EC%87%84>
+<https://sites.google.com/site/machlearnwiki/RBM/markov-chain>
+
+### CRF
+
+<https://lovit.github.io/nlp/2018/09/13/crf_based_tagger/>
+<https://ratsgo.github.io/machine%20learning/2017/11/10/CRF/>
+
+### HMM
+
+<https://ko.wikipedia.org/wiki/%EC%9D%80%EB%8B%89_%EB%A7%88%EB%A5%B4%EC%BD%94%ED%94%84_%EB%AA%A8%EB%8D%B8>
+<https://mrseo.co.kr/what-is-%EB%AF%B8%EC%8A%A4%ED%84%B0seo/>
+
+## WPM(Word Piece Model)
+
+<https://lovit.github.io/nlp/2018/04/02/wpm/>
+
+## BPE(Byte Pair Encoding)(Digram Coding)
+
+- 어근을 찾기 위해서
