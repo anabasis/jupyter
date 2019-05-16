@@ -106,3 +106,7 @@ WannaCry 랜섬웨어 : <https://namu.wiki/w/%EC%9B%8C%EB%84%88%ED%81%AC%EB%9D%B
 ## BPE(Byte Pair Encoding)(Digram Coding)
 
 - 어근을 찾기 위해서
+
+<https://www.lucypark.kr/courses/2015-dm/text-mining.html>
+
+<https://datascienceschool.net/view-notebook/118731eec74b4ad3bdd2f89bab077e1b/>
