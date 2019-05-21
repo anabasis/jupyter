@@ -176,7 +176,7 @@ git push origin master
 
 ### Stage 11
 
-- ,https://github.com/taeung/git-training>
+- <https://github.com/taeung/git-training>
 다른사이트에서 fork해옴
 - clone으로 fork한 repo받아오기(<https://github.com/anabasis/git-training-1.git>)
 - pull-request 작업할 Branch 따로 생성

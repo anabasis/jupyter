@@ -33,6 +33,8 @@ _returnType=json
 ## Google
 
 - PageRank 알고리즘
+  <https://sungmooncho.com/2012/08/26/pagerank/>
+  <https://kr.mathworks.com/help/matlab/math/use-page-rank-algorithm-to-rank-websites.html>
 
 <http://www.ppomppu.co.kr/zboard/zboard.php?id=ppomppu>
 
@@ -116,3 +118,16 @@ WannaCry 랜섬웨어 : <https://namu.wiki/w/%EC%9B%8C%EB%84%88%ED%81%AC%EB%9D%B
 <https://datascienceschool.net/view-notebook/118731eec74b4ad3bdd2f89bab077e1b/>
 
 ## 하지만 공짜 점심은 없다(There’s No Such Thing as a Free Lunch?)
+
+<http://www.cs.virginia.edu/~hw5x/Course/IR2015/_site/lectures/>
+
+파스트리
+<https://www.cs.wcupa.edu/rkline/fcs/parse-trees.html>
+<https://www.nltk.org/book/ch08.html>
+
+### Text Retrieval Conference (TREC)
+
+<https://trec.nist.gov/>
+
+- Add-hoc모델
+- 필터링 모델(RSS필터링)
