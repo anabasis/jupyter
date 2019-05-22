@@ -131,3 +131,18 @@ WannaCry 랜섬웨어 : <https://namu.wiki/w/%EC%9B%8C%EB%84%88%ED%81%AC%EB%9D%B
 
 - Add-hoc모델
 - 필터링 모델(RSS필터링)
+
+retrieval == search
+
+NER(Named Entity Recognition)
+
+<https://statkclee.github.io/text/nlp-bag-of-words.html>
+
+
+Word Embedding
+<https://shuuki4.wordpress.com/2016/01/27/word2vec-%EA%B4%80%EB%A0%A8-%EC%9D%B4%EB%A1%A0-%EC%A0%95%EB%A6%AC/>
+<http://doc.mindscale.kr/km/unstructured/11.html>
+
+Inverted Document 구조
+<https://blog.lael.be/post/3056>
+<https://giyatto.tistory.com/2>
