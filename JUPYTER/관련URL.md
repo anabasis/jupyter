@@ -51,7 +51,7 @@ _returnType=json
 [알고리즘]
 
 - TF-IDE
-- 유사도 코싸인
+- 코싸인 유사도
 
 [램섬웨어]
 WannaCry 랜섬웨어 : <https://namu.wiki/w/%EC%9B%8C%EB%84%88%ED%81%AC%EB%9D%BC%EC%9D%B4>
@@ -151,3 +151,9 @@ Inverted Document 구조
 ## TF-IDF
 
 <https://en.wikipedia.org/wiki/Tf%E2%80%93idf>
+
+## 코사인 유사도
+
+<https://ko.wikipedia.org/wiki/%EC%BD%94%EC%82%AC%EC%9D%B8_%EC%9C%A0%EC%82%AC%EB%8F%84>
+
+<https://wikidocs.net/24603>
