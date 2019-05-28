@@ -182,3 +182,9 @@ find_elements_by_partial_link_text
 find_elements_by_tag_name
 find_elements_by_class_name
 find_elements_by_css_selector
+
+## defaultdict
+
+<https://bslife.tistory.com/37>
+<https://codeday.me/ko/qa/20190317/86894.html>
+<https://dojang.io/mod/page/view.php?id=2307>

@@ -1,7 +1,7 @@
 # 관련URL
 
-[창업지원]
-https://kosslab.kr/
+[출석] <https://lms.koipa.or.kr/dashboard/>
+[창업지원] <https://kosslab.kr/>
 
 [텍스트마이닝]
 <https://wikidocs.net/book/2155>
@@ -160,3 +160,29 @@ Inverted Document 구조
 <https://ko.wikipedia.org/wiki/%EC%BD%94%EC%82%AC%EC%9D%B8_%EC%9C%A0%EC%82%AC%EB%8F%84>
 
 <https://wikidocs.net/24603>
+
+## 유사도 계산법
+
+<http://blog.naver.com/PostView.nhn?blogId=cjh226&logNo=220810613028>
+<https://stats.stackexchange.com/questions/62092/bottom-to-top-explanation-of-the-mahalanobis-distance>
+<https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/04/20/docsim/>
+
+<https://www.fun-coding.org/recommend_basic3.html>
+
+## 상관계수 계산법
+
+<https://m.blog.naver.com/PostView.nhn?blogId=istech7&logNo=50153047118&proxyReferer=https%3A%2F%2Fwww.google.com%2F>
+<https://m.blog.naver.com/istech7/50153288534>
+<https://bioinformaticsandme.tistory.com/58>
+<https://mansoostat.tistory.com/115>
+
+### 문서
+### 문장
+### 단어
+### 프로파일
+
+## Okapi 모델
+
+<https://github.com/modulabs/DeepNLP/issues/23>
+<https://jitwo.tistory.com/8>
+<https://ra2kstar.tistory.com/21>
