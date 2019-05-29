@@ -7,6 +7,7 @@
 <https://wikidocs.net/book/2155>
 
 <https://www.data.go.kr>
+[실전]<https://statkclee.github.io/ml/ml-text.html>
 
 [XML]
 
@@ -186,3 +187,15 @@ Inverted Document 구조
 <https://github.com/modulabs/DeepNLP/issues/23>
 <https://jitwo.tistory.com/8>
 <https://ra2kstar.tistory.com/21>
+
+<https://datascienceschool.net/view-notebook/118731eec74b4ad3bdd2f89bab077e1b/>
+
+### TD-IDF
+
+<http://dev.youngkyu.kr/25>
+
+### token
+
+<https://excelsior-cjh.tistory.com/63>
+<http://textmining.kr/?p=344>
+<https://datascienceschool.net/view-notebook/118731eec74b4ad3bdd2f89bab077e1b/>
