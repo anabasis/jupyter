@@ -199,3 +199,21 @@ Inverted Document 구조
 <https://excelsior-cjh.tistory.com/63>
 <http://textmining.kr/?p=344>
 <https://datascienceschool.net/view-notebook/118731eec74b4ad3bdd2f89bab077e1b/>
+
+## 나이브베이즈 정리
+
+<https://ratsgo.github.io/machine%20learning/2017/05/18/naive/>
+
+** Joint Probability
+
+P(A|B) = P(A,B)/P(B)
+
+## Chain Rule
+
+- 마코프 체인
+
+## MLE , MAP
+
+<https://darkpgmr.tistory.com/62>
+
+## 라플라스 스무딩
