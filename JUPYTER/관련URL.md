@@ -224,10 +224,13 @@ P(A|B) = P(A,B)/P(B)
 <https://darkpgmr.tistory.com/162>
 <https://shineware.tistory.com/entry/accuracy-precision-recall%EC%9D%98-%EC%B0%A8%EC%9D%B4>
 
-
 ## scikit learn
 
 <https://kofboy2000.tistory.com/30>
 <https://scikit-learn.org/stable/>
 <https://m.blog.naver.com/PostView.nhn?blogId=kimkanu&logNo=221116429423&proxyReferer=http%3A%2F%2Fwww.google.com%2Furl%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D1%26ved%3D2ahUKEwjpk8ru9ePiAhXTdd4KHcQnBPEQFjAAegQIABAB%26url%3Dhttp%253A%252F%252Fm.blog.naver.com%252Fkimkanu%252F221116429423%26usg%3DAOvVaw2I_zT0hjtJU20w0_imB47>
 <https://scikit-learn.org/stable/modules/classes.html>
+
+## 다익스트라
+
+<https://ratsgo.github.io/data%20structure&algorithm/2017/11/26/dijkstra/>
