@@ -80,8 +80,6 @@ Chap07. Computing scores in a complete search system
 
 > 랭킹에 대한 가중치는 우리도 많이 사용하고 있죠. 더 좋은 검색 품질을 위해 끊임없이 개발해야 하는 부분입니다.
 
-
-
 Chap08. Eval!uation in information retrieval!
 
 - 검색 모델의 검색 성능 측정 방법에 대한 내용
@@ -89,8 +87,6 @@ Chap08. Eval!uation in information retrieval!
 - 테스트 콜렉션, 정확도와 재현율, 랭킹에 대한 평가, 적합도 판정, 시스템 품질과 사용성
 
 > 검색 서비스의 오픈할 때 하는 성능측정 외에도 계속적인 평가와 모니터링이 필요합니다. 쿼리 파라미터의 뭘 수정해야 할까요??
-
-
 
 Chap09. Relevance feedback and query expansion
 

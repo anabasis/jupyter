@@ -234,3 +234,12 @@ P(A|B) = P(A,B)/P(B)
 ## 다익스트라
 
 <https://ratsgo.github.io/data%20structure&algorithm/2017/11/26/dijkstra/>
+
+## k-MEANS
+
+<https://ko.wikipedia.org/wiki/K-%ED%8F%89%EA%B7%A0_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98>
+<https://ko.wikipedia.org/wiki/%EA%B8%B0%EB%8C%93%EA%B0%92_%EC%B5%9C%EB%8C%80%ED%99%94_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98>
+
+## EM 알고리즘
+
+<https://ko.wikipedia.org/wiki/%EA%B8%B0%EB%8C%93%EA%B0%92_%EC%B5%9C%EB%8C%80%ED%99%94_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98>
