@@ -243,3 +243,23 @@ P(A|B) = P(A,B)/P(B)
 ## EM 알고리즘
 
 <https://ko.wikipedia.org/wiki/%EA%B8%B0%EB%8C%93%EA%B0%92_%EC%B5%9C%EB%8C%80%ED%99%94_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98>
+
+## LSI or LSA
+
+## LDA
+디리클레 모델
+<https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/06/01/LDA/>
+<https://ko.wikipedia.org/wiki/%EC%9E%A0%EC%9E%AC_%EB%94%94%EB%A6%AC%ED%81%B4%EB%A0%88_%ED%95%A0%EB%8B%B9>
+
+PCA vs LDA
+<http://blog.naver.com/PostView.nhn?blogId=worb1605&logNo=221500778838>
+
+## 베이즈 네트워크
+
+<https://ko.wikipedia.org/wiki/%EB%B2%A0%EC%9D%B4%EC%A6%88_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC>
+
+## 셈플링
+
+네거티브 셈플링
+
+
